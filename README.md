@@ -1,2 +1,2 @@
 # pythonGUI
-develop simple GUI interfaces using python Tkinter
+Simple GUI interfaces using python Tkinter
